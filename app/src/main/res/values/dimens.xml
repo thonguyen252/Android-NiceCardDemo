@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="base_text_size">17sp</dimen>
+    <dimen name="small_text_size">16sp</dimen>
+
+    <dimen name="space_base_grid">8dp</dimen>
+    <dimen name="nice_card_recycler_view_height">144dp</dimen>
+    <dimen name="item_nice_card_height">128dp</dimen>
+    <dimen name="item_nice_card_width">96dp</dimen>
+    <dimen name="nice_card_width">156dp</dimen>
+    <dimen name="nice_card_height">208dp</dimen>
+    <dimen name="card_item_id_width">24dp</dimen>
+</resources>
