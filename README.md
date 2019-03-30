@@ -22,6 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [Kotlin]
 * [MVVM Architecture] https://developer.android.com/topic/libraries/architecture/viewmodel
+* [Material Design] https://material.io/design/layout/spacing-methods.html#spacing
 
 ## Authors
 
