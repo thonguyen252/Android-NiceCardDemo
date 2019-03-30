@@ -1,6 +1,7 @@
 # NiceCardDemo
 
-A demo app for Manabie - Singapore company
+This is my interview exercise to Manabie - a Singapore company.
+This project can also be used as a reference - example of Android MVVM Architecture
 
 ## Getting Started
 
