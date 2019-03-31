@@ -75,9 +75,9 @@ class HomeFragment : BaseFragment() {
      * Show the selected card when user selects a card
      */
     private fun showSelectedCard(card: NiceCard) {
-        cvNiceCard.setCardBackgroundColor(card.color)
-        tvNiceCardId.text = (card.id + 1).toString()
-        tvNiceCardValue.text = card.value.toString()
+        cvNiceCard.setCard(card)
+//        tvNiceCardId.text = (card.id + 1).toString()
+//        tvNiceCardValue.text = card.value.toString()
     }
 
     /**

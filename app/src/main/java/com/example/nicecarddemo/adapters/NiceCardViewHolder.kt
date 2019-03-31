@@ -10,8 +10,6 @@ import kotlinx.android.synthetic.main.item_nice_card.view.*
 class NiceCardViewHolder(view: View) : BaseRecyclerViewViewHolder<NiceCard>(view) {
 
     override fun bindView(item: NiceCard) {
-        itemView.cvNiceCardItem.setCardBackgroundColor(item.color)
-        itemView.tvCardItemValue.text = item.value.toString()
-        itemView.tvCardItemId.text = (item.id + 1).toString()
+        itemView.cvNiceCard.setCard(item)
     }
 }
